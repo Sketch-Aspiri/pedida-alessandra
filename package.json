@@ -1,0 +1,10 @@
+{
+  "name": "pedida-alessandra",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Página especial de Andres para Alessandra",
+  "scripts": {
+    "dev": "python3 -m http.server 5173 --bind 127.0.0.1",
+    "start": "python3 -m http.server 5173 --bind 127.0.0.1"
+  }
+}
