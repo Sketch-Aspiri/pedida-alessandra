@@ -17,3 +17,10 @@ npx vercel --prod
 ```
 
 Archivos: `index.html`, `styles.css`, `app.js`, `vercel.json`, `package.json`
+
+## Poema
+
+Página del poema: [`/poema/`](./poema/)
+
+- Local: http://127.0.0.1:5173/poema/
+- Pages: https://sketch-aspiri.github.io/pedida-alessandra/poema/
